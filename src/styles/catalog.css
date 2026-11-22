@@ -1,0 +1,3 @@
+.section-title>p{max-width:390px}.products{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:17px}
+@media(max-width:900px){.products{grid-template-columns:repeat(2,minmax(0,1fr))}.section-title{align-items:flex-start;flex-direction:column;gap:8px}}
+@media(max-width:430px){.products{gap:10px}.section-title{margin-bottom:22px}}

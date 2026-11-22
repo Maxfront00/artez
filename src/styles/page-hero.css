@@ -1,0 +1,2 @@
+.page-hero{padding:78px 0 85px;background:linear-gradient(110deg,#0b3b75,#176fa9)}.page-hero h1{color:#fff;margin-top:20px}.page-hero p{color:#c4def2;margin-bottom:0}
+@media(max-width:560px){.page-hero{padding:55px 0 60px}.page-hero h1{font-size:clamp(38px,10vw,46px)}}

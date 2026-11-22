@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+:root{font-family:Manrope,Arial,sans-serif;color:#12365f;background:#fff;font-synthesis:none;text-rendering:optimizeLegibility;font-optical-sizing:auto}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:90px}body{margin:0;min-width:320px}button,a{font:inherit}button{cursor:pointer}a{color:inherit;text-decoration:none}button:focus-visible,a:focus-visible{outline:3px solid #57b5ed;outline-offset:3px}
+.container{width:min(1160px,calc(100% - 48px));margin-inline:auto}.eyebrow{font-size:10px;font-weight:800;letter-spacing:2px;color:#d9efff}.eyebrow.blue{color:#1480bf}
+.button{border:0;border-radius:30px;padding:15px 22px;font-size:11px;font-weight:800;transition:transform .2s,box-shadow .2s}.button:hover{transform:translateY(-2px)}.primary{background:#075da7;color:#fff;box-shadow:0 8px 22px #0b57932b}.secondary{background:#ffffffaa;color:#164d7d}
+.section{padding:clamp(56px,7vw,82px) 0}.section-title{display:flex;justify-content:space-between;align-items:end;gap:30px;margin-bottom:30px}.section-title h2,h2{font-size:clamp(27px,3vw,34px);letter-spacing:-1.3px;color:#0c376b;margin:10px 0 0}.section-title>p,.muted{max-width:390px;color:#7a8fa2;font-size:12px;line-height:1.8}
